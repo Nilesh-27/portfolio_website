@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nilesh Dokuparthi — Portfolio
 
 A responsive, dark-theme portfolio for backend development, cloud engineering, DevOps, and application security roles in Germany. Built with static HTML and CSS; no build step or JavaScript framework is required.
@@ -37,3 +38,6 @@ Official guide: https://docs.github.com/en/pages/quickstart
 ## Portfolio focus
 
 The skills list intentionally excludes AI/ML, Data Science, React, Kotlin, and JavaScript, as requested. The focus is backend development, cloud platforms, DevOps/infrastructure, databases/tools, and application security.
+=======
+# portfolio_website
+>>>>>>> bda43dd922680f7c92bb4dddee98f2910ded0df7
